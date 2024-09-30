@@ -1,4 +1,5 @@
 Spam Email Detection using Machine Learning
+
 This project is a Spam Email Detection System created as part of my internship at CipherByte Technologies. The goal of this project is to classify emails as either spam or non-spam using Machine Learning techniques.
 
 Features:
