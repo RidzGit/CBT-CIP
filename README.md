@@ -1,3 +1,21 @@
+Spam Email Detection using Machine Learning
+This project is a Spam Email Detection System created as part of my internship at CipherByte Technologies. The goal of this project is to classify emails as either spam or non-spam using Machine Learning techniques.
+
+Features:
+Data Preprocessing: Cleaning the dataset, handling missing values, and text preprocessing.
+Feature Engineering: Transforming textual data into numerical features using techniques like TF-IDF Vectorization.
+Modeling: Implemented multiple classification algorithms like Naive Bayes, Logistic Regression, and Support Vector Machines (SVM) to build the detection model.
+Evaluation: Comparing the performance of different models using accuracy, precision, recall, and F1-score.
+
+Tools & Technologies:
+Python
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+
+
+
 Unemployment Analysis with Python :
 
 Project Overview
